@@ -1,0 +1,65 @@
+ 
+  {
+    "products": [
+      {
+        "id": 1,
+        "name": "Grand PArent produit A",
+        "description": "Grand PArent produit A",
+        "items": [
+          {
+            "id": 2,
+            "name": "Pere produit A.A",
+            "description": "Pere produit A.A",
+            "items": [
+              {
+                "id": 332,
+                "name": "Fils Produit A.A.A",
+                "description": "Fils Produit A.A.A"
+              },
+              {
+                "id": 2555,
+                "name": "Fils Produit A.A.B",
+                "description": "Fils Produit 2"
+              }
+            ],
+            "type": 0
+          },
+          {
+            "id": 3,
+            "name": "Pere Produit B",
+            "description": "Pere Produit B",
+            "type": 0
+          },
+          {
+            "id": 10,
+            "name": "pere Produit C",
+            "description": "pere Produit C",
+            "items": [
+              {
+                "id": 66,
+                "name": "fis Produit C.A",
+                "description": "fis Produit C.a",
+                "type": 0
+              }
+            ],
+            "type": 0
+          },
+          {
+            "id": 11,
+            "name": "pere Produit 4",
+            "description": "PArent Produit 4",
+            "items": [],
+            "type": 0
+          },
+          {
+            "id": 18,
+            "name": "pere Produit 5",
+            "description": "PArent Produit 5",
+            "items": [],
+            "type": 0
+          }
+    ]
+
+  }]
+  }
+
